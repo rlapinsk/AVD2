@@ -1,11 +1,10 @@
-variable "rg_name"{
-
+variable "rg_name" {
+  
+}
+variable "deploy_location" {
+  type = string
 }
 
-variable "deploy_location"{
-    type = string
-}
-
-variable "vnet_name"{
-
+variable "vnet_name" {
+  
 }

@@ -1,5 +1,5 @@
-terraform{
-    backend "local" {
-        path = "C:\\Temp\\tfstate\\terraform_subnet.tfstate"
-    }
+terraform {
+  backend "local" {
+    path = "c:\\tfstate\\terraformsubnet.tfstate"
+  }
 }
