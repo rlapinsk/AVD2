@@ -1,5 +1,5 @@
-rg_name = "my1rg"
+rg_name = "RG_VDI"
 deploy_location = "west europe"
-workspace_name = "my1workspace"
-fr_name = "my1friendlyworkspace"
+workspace_name = "vdi_workspace"
+fr_name = "vdi_friendlyworkspace"
 descript = "Some workspace"

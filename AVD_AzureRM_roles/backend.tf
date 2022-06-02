@@ -1,5 +1,5 @@
 terraform {
   backend "local" {
-    path = "c:\\tfstate\\terraform_roles_groups.tfstate"
+    path = "c:\\Temp\\tfstate\\terraform_roles_groups.tfstate"
   }
 }

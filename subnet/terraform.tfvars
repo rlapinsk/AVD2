@@ -1,4 +1,4 @@
-rg_name = "my1rg"
+rg_name = "RG_VDI"
 deploy_location = "west europe"
-vnet_name = "my1vnet"
-subnet_name = "my1subnet"
+vnet_name = "vdi_vnet"
+subnet_name = "vdi_subnet"

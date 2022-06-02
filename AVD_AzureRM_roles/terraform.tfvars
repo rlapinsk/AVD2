@@ -1,2 +1,2 @@
-rg_name = "my1rg"
+rg_name = "RG_VDI"
 deploy_location = "west europe"

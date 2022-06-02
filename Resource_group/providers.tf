@@ -13,10 +13,8 @@ terraform {
 
 provider "azurerm" {
   # Configuration options
-  subscription_id = "1e5d5a77-5bb8-493e-9a80-87271fc0c024"
-  alias = "A"
+  subscription_id = "2020d672-be3c-4669-a97d-edc7704c5c17"
   features {
-    
   }
 }
 
@@ -24,7 +22,7 @@ provider "azurerm" {
   # Configuration options
 #  features {   
 #  }
-#  subscription_id = "1e5d5a77-5bb8-493e-9a80-87271fc0c024"
+#  subscription_id = "2020d672-be3c-4669-a97d-edc7704c5c17"
 #  alias = "B"
 #}
 
